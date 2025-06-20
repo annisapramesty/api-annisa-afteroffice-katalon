@@ -47,7 +47,7 @@ WebUI.setText(findTestObject('PracticeForm/input_LastName'), 'Pramesty')
 WebUI.setText(findTestObject('PracticeForm/input_Email'), 'annisagmail.com')
 
 WebUI.click(findTestObject('PracticeForm/radio_Gender_Female'))
-WebUI.setText(findTestObject('PracticeForm/input_Mobile'), '0812345678')
+WebUI.setText(findTestObject('PracticeForm/input_Mobile'), '0812777678')
 WebUI.click(findTestObject('PracticeForm/input_DateOfBirth'))
 WebUI.sendKeys(findTestObject('PracticeForm/input_DateOfBirth'), Keys.chord(Keys.CONTROL, 'a'))
 WebUI.sendKeys(findTestObject('PracticeForm/input_DateOfBirth'), '10 Jan 2000' + Keys.ENTER)
