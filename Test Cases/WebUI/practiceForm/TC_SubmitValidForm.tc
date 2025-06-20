@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengujian dilakukan dengan memasukkan inputan yang valid pada form dengan tujuan untuk menguji keberhasilan submit form.</description>
+   <name>TC_SubmitValidForm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d711229d-f445-4cd9-bb40-7597940d766d</testCaseGuid>
+</TestCaseEntity>
